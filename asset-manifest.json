@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-burger-site/static/css/main.eb035210.chunk.css",
+    "main.js": "/react-burger-site/static/js/main.ca3044c2.chunk.js",
+    "main.js.map": "/react-burger-site/static/js/main.ca3044c2.chunk.js.map",
+    "runtime-main.js": "/react-burger-site/static/js/runtime-main.cf8dbadc.js",
+    "runtime-main.js.map": "/react-burger-site/static/js/runtime-main.cf8dbadc.js.map",
+    "static/js/2.38f05ae6.chunk.js": "/react-burger-site/static/js/2.38f05ae6.chunk.js",
+    "static/js/2.38f05ae6.chunk.js.map": "/react-burger-site/static/js/2.38f05ae6.chunk.js.map",
+    "static/js/3.6e8c24f8.chunk.js": "/react-burger-site/static/js/3.6e8c24f8.chunk.js",
+    "static/js/3.6e8c24f8.chunk.js.map": "/react-burger-site/static/js/3.6e8c24f8.chunk.js.map",
+    "index.html": "/react-burger-site/index.html",
+    "static/css/main.eb035210.chunk.css.map": "/react-burger-site/static/css/main.eb035210.chunk.css.map",
+    "static/js/2.38f05ae6.chunk.js.LICENSE.txt": "/react-burger-site/static/js/2.38f05ae6.chunk.js.LICENSE.txt",
+    "static/media/preloader.d3fbaf2b.gif": "/react-burger-site/static/media/preloader.d3fbaf2b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf8dbadc.js",
+    "static/js/2.38f05ae6.chunk.js",
+    "static/css/main.eb035210.chunk.css",
+    "static/js/main.ca3044c2.chunk.js"
+  ]
+}
